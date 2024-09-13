@@ -1,0 +1,1 @@
+# sayinin-kuvvetlerini-bulan-program
